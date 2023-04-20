@@ -12,9 +12,6 @@ a:link {
   font-weight: 400;
 }
 
-a:unvisited {
-  color: #0c1f44;
-}
 
 a:visited {
   color: #663399;
@@ -40,7 +37,6 @@ header {
 	text-align: center;
 	font-size: 10px;
 	font-weight: 400;
-	float: center;
 	padding-left: 20px;
 	padding-right: 20px;
 	margin: 10px;
