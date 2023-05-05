@@ -13,10 +13,6 @@ a {
   font-weight: 400;
 }
 
-a:unvisited {
-  color: #0c1f44;
-}
-
 a:visited {
   color: #663399;
 }
@@ -41,7 +37,6 @@ header {
 	width: 90%;
 	text-align: center;
 	font-weight: 400;
-	float: center;
 	padding-left: 20px;
 	padding-right: 20px;
 	margin: 10px;
